@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.mcm_campaign-preview-url {
+}
+
+.mcm-icon {
+  margin-right:1em;
+  opacity:0.3;
+  -webkit-transition: opacity 0.5s;
+  -moz-transition: opacity 0.1s;
+}
+.mcm-icon:hover { opacity: 1; }
+.mcm-icon img { border:none; }
+
+.mcm_campaign-remove {
+	background-image: url(img/icon-delete.png);
+	background-repeat:no-repeat;
+	background-position:center;
+}
+

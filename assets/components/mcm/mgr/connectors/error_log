@@ -1,0 +1,164 @@
+[22-Apr-2012 22:10:03] PHP Warning:  require_once(MCM_CORElib/mcm/ModxCampaignMonitor.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mmm/modx-core/components/mcm/processors/campaigns/getlist.class.php on line 13
+[22-Apr-2012 22:10:03] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'MCM_CORElib/mcm/ModxCampaignMonitor.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mmm/modx-core/components/mcm/processors/campaigns/getlist.class.php on line 13
+[22-Apr-2012 22:10:43] PHP Warning:  require_once(MCM_CORElib/mcm/ModxCampaignMonitor.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mmm/modx-core/components/mcm/processors/campaigns/getlist.class.php on line 13
+[22-Apr-2012 22:10:43] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'MCM_CORElib/mcm/ModxCampaignMonitor.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mmm/modx-core/components/mcm/processors/campaigns/getlist.class.php on line 13
+[22-Apr-2012 22:12:01] PHP Warning:  require_once(MCM_CORElib/mcm/ModxCampaignMonitor.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mmm/modx-core/components/mcm/processors/campaigns/getlist.class.php on line 13
+[22-Apr-2012 22:12:01] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'MCM_CORElib/mcm/ModxCampaignMonitor.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mmm/modx-core/components/mcm/processors/campaigns/getlist.class.php on line 13
+[22-Apr-2012 22:12:53] PHP Warning:  require_once(MCM_CORElib/mcm/ModxCampaignMonitor.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mmm/modx-core/components/mcm/processors/campaigns/getlist.class.php on line 13
+[22-Apr-2012 22:12:53] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'MCM_CORElib/mcm/ModxCampaignMonitor.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mmm/modx-core/components/mcm/processors/campaigns/getlist.class.php on line 13
+[22-Apr-2012 22:14:06] PHP Warning:  require_once(MCM_CORElib/mcm/ModxCampaignMonitor.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mmm/modx-core/components/mcm/processors/campaigns/getlist.class.php on line 14
+[22-Apr-2012 22:14:06] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'MCM_CORElib/mcm/ModxCampaignMonitor.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mmm/modx-core/components/mcm/processors/campaigns/getlist.class.php on line 14
+[22-Apr-2012 22:14:48] PHP Warning:  require_once(MCM_CORElib/mcm/ModxCampaignMonitor.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mmm/modx-core/components/mcm/processors/campaigns/getlist.class.php on line 14
+[22-Apr-2012 22:14:48] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'MCM_CORElib/mcm/ModxCampaignMonitor.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mmm/modx-core/components/mcm/processors/campaigns/getlist.class.php on line 14
+[22-Apr-2012 22:15:34] PHP Warning:  require_once(/home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mmm/modx-core/components/mcm/processors/campaigns/getlist.class.php on line 14
+[22-Apr-2012 22:15:34] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mmm/modx-core/components/mcm/processors/campaigns/getlist.class.php on line 14
+[22-Apr-2012 22:18:28] PHP Warning:  require_once(/home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mmm/modx-core/components/mcm/processors/campaigns/getlist.class.php on line 14
+[22-Apr-2012 22:18:28] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mmm/modx-core/components/mcm/processors/campaigns/getlist.class.php on line 14
+[22-Apr-2012 22:19:49] PHP Warning:  require_once(/home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mmm/modx-core/components/mcm/processors/campaigns/getlist.class.php on line 14
+[22-Apr-2012 22:19:49] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mmm/modx-core/components/mcm/processors/campaigns/getlist.class.php on line 14
+[22-Apr-2012 22:21:45] PHP Warning:  require_once(/home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mmm/modx-core/components/mcm/processors/campaigns/getlist.class.php on line 14
+[22-Apr-2012 22:21:45] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mmm/modx-core/components/mcm/processors/campaigns/getlist.class.php on line 14
+[22-Apr-2012 22:22:38] PHP Warning:  require_once(/home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mmm/modx-core/components/mcm/processors/campaigns/getlist.class.php on line 14
+[22-Apr-2012 22:22:38] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mmm/modx-core/components/mcm/processors/campaigns/getlist.class.php on line 14
+[22-Apr-2012 22:23:50] PHP Fatal error:  Call to a member function getOption() on a non-object in /home/mmm/modx-core/components/mcm/processors/campaigns/getlist.class.php on line 2
+[22-Apr-2012 22:24:07] PHP Fatal error:  Call to a member function getOption() on a non-object in /home/mmm/modx-core/components/mcm/processors/campaigns/getlist.class.php on line 2
+[22-Apr-2012 22:24:32] PHP Fatal error:  Call to a member function getOption() on a non-object in /home/mmm/modx-core/components/mcm/processors/campaigns/getlist.class.php on line 2
+[22-Apr-2012 22:28:23] PHP Warning:  require_once(/home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mmm/modx-core/components/mcm/processors/campaigns/getlist.class.php on line 16
+[22-Apr-2012 22:28:23] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mmm/modx-core/components/mcm/processors/campaigns/getlist.class.php on line 16
+[22-Apr-2012 22:29:08] PHP Warning:  require_once(/home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mmm/modx-core/components/mcm/processors/campaigns/getlist.class.php on line 16
+[22-Apr-2012 22:29:08] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mmm/modx-core/components/mcm/processors/campaigns/getlist.class.php on line 16
+[22-Apr-2012 22:30:13] PHP Fatal error:  Call to a member function getOption() on a non-object in /home/mmm/modx-core/components/mcm/processors/campaigns/getlist.class.php on line 2
+[22-Apr-2012 22:30:42] PHP Fatal error:  Call to a member function getOption() on a non-object in /home/mmm/modx-core/components/mcm/processors/campaigns/getlist.class.php on line 2
+[22-Apr-2012 22:31:06] PHP Fatal error:  Call to a member function getOption() on a non-object in /home/mmm/modx-core/components/mcm/processors/campaigns/getlist.class.php on line 2
+[23-Apr-2012 13:30:00] PHP Parse error:  syntax error, unexpected ')' in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 64
+[23-Apr-2012 13:30:00] PHP Parse error:  syntax error, unexpected ')' in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 64
+[23-Apr-2012 13:30:00] PHP Parse error:  syntax error, unexpected ')' in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 64
+[24-Apr-2012 08:31:57] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 82
+[24-Apr-2012 08:32:12] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 82
+[24-Apr-2012 08:32:28] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 82
+[24-Apr-2012 08:33:06] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 82
+[24-Apr-2012 08:33:29] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 82
+[24-Apr-2012 08:35:12] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 08:35:45] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 08:35:45] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 08:36:15] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 08:36:15] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 08:36:39] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 08:36:39] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 08:36:50] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 08:36:50] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 08:38:50] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 08:38:51] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 08:41:13] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 08:41:13] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 08:41:25] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 08:41:25] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 08:42:09] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 08:42:10] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 08:42:53] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 08:42:53] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 08:43:42] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 08:43:42] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 08:44:42] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 08:44:42] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 08:45:25] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 08:45:25] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 08:46:02] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 08:46:02] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 08:46:19] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 08:46:19] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 08:48:08] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 08:48:08] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 08:48:18] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 08:48:18] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 08:48:44] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 08:48:44] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 08:48:56] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 08:48:56] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 08:50:03] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 08:50:04] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 09:11:20] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 09:11:20] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 09:12:21] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 09:12:21] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 09:13:23] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 09:13:23] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 09:14:24] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 09:14:24] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 09:14:52] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 09:14:52] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 09:19:59] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 09:19:59] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 09:20:13] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 09:20:13] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 09:20:29] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 09:20:29] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 09:20:54] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 09:20:54] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 09:22:35] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 09:22:36] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 09:22:55] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 09:22:55] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 09:23:20] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 09:23:20] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 09:24:21] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 09:24:21] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 09:25:02] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 09:25:02] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 09:25:54] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 09:25:54] PHP Warning:  Invalid argument supplied for foreach() in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 78
+[24-Apr-2012 12:59:55] PHP Parse error:  syntax error, unexpected '}' in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 56
+[24-Apr-2012 12:59:55] PHP Parse error:  syntax error, unexpected '}' in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 56
+[24-Apr-2012 12:59:55] PHP Parse error:  syntax error, unexpected '}' in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 56
+[24-Apr-2012 12:59:55] PHP Parse error:  syntax error, unexpected '}' in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 56
+[24-Apr-2012 13:00:16] PHP Parse error:  syntax error, unexpected '}' in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 56
+[24-Apr-2012 13:00:16] PHP Parse error:  syntax error, unexpected '}' in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 56
+[24-Apr-2012 13:00:16] PHP Parse error:  syntax error, unexpected '}' in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 56
+[24-Apr-2012 13:00:16] PHP Parse error:  syntax error, unexpected '}' in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 56
+[24-Apr-2012 13:00:29] PHP Parse error:  syntax error, unexpected '}' in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 56
+[24-Apr-2012 13:00:29] PHP Parse error:  syntax error, unexpected '}' in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 56
+[24-Apr-2012 13:00:29] PHP Parse error:  syntax error, unexpected '}' in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 56
+[24-Apr-2012 13:00:29] PHP Parse error:  syntax error, unexpected '}' in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 56
+[24-Apr-2012 13:00:49] PHP Parse error:  syntax error, unexpected '}' in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 56
+[24-Apr-2012 13:00:49] PHP Parse error:  syntax error, unexpected '}' in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 56
+[24-Apr-2012 13:00:49] PHP Parse error:  syntax error, unexpected '}' in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 56
+[24-Apr-2012 13:00:49] PHP Parse error:  syntax error, unexpected '}' in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 56
+[24-Apr-2012 13:21:20] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/mmm/modx-core/components/mcm/processors/campaigns/getlist.class.php on line 30
+[24-Apr-2012 14:41:12] PHP Catchable fatal error:  Argument 1 passed to modProcessor::outputArray() must be an array, object given, called in /home/mmm/modx-core/components/mcm/processors/recipientlists/getlist.class.php on line 33 and defined in /home/mmm/modx-core/model/modx/modprocessor.class.php on line 248
+[24-Apr-2012 14:41:15] PHP Catchable fatal error:  Argument 1 passed to modProcessor::outputArray() must be an array, object given, called in /home/mmm/modx-core/components/mcm/processors/recipientlists/getlist.class.php on line 33 and defined in /home/mmm/modx-core/model/modx/modprocessor.class.php on line 248
+[24-Apr-2012 14:43:26] PHP Catchable fatal error:  Argument 1 passed to modProcessor::outputArray() must be an array, object given, called in /home/mmm/modx-core/components/mcm/processors/recipientlists/getlist.class.php on line 33 and defined in /home/mmm/modx-core/model/modx/modprocessor.class.php on line 248
+[24-Apr-2012 14:43:29] PHP Catchable fatal error:  Argument 1 passed to modProcessor::outputArray() must be an array, object given, called in /home/mmm/modx-core/components/mcm/processors/recipientlists/getlist.class.php on line 33 and defined in /home/mmm/modx-core/model/modx/modprocessor.class.php on line 248
+[24-Apr-2012 14:43:52] PHP Catchable fatal error:  Argument 1 passed to modProcessor::outputArray() must be an array, object given, called in /home/mmm/modx-core/components/mcm/processors/recipientlists/getlist.class.php on line 33 and defined in /home/mmm/modx-core/model/modx/modprocessor.class.php on line 248
+[24-Apr-2012 14:43:55] PHP Catchable fatal error:  Argument 1 passed to modProcessor::outputArray() must be an array, object given, called in /home/mmm/modx-core/components/mcm/processors/recipientlists/getlist.class.php on line 33 and defined in /home/mmm/modx-core/model/modx/modprocessor.class.php on line 248
+[24-Apr-2012 14:44:40] PHP Catchable fatal error:  Argument 1 passed to modProcessor::outputArray() must be an array, object given, called in /home/mmm/modx-core/components/mcm/processors/recipientlists/getlist.class.php on line 33 and defined in /home/mmm/modx-core/model/modx/modprocessor.class.php on line 248
+[24-Apr-2012 14:44:42] PHP Catchable fatal error:  Argument 1 passed to modProcessor::outputArray() must be an array, object given, called in /home/mmm/modx-core/components/mcm/processors/recipientlists/getlist.class.php on line 33 and defined in /home/mmm/modx-core/model/modx/modprocessor.class.php on line 248
+[24-Apr-2012 15:16:18] PHP Parse error:  syntax error, unexpected T_IF in /home/mmm/modx-core/components/mcm/processors/campaigns/create.class.php on line 39
+[24-Apr-2012 15:20:23] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/mmm/modx-core/components/mcm/processors/campaigns/create.class.php on line 39
+[24-Apr-2012 15:21:07] PHP Fatal error:  Call to a member function getOption() on a non-object in /home/mmm/modx-core/components/mcm/processors/campaigns/create.class.php on line 26
+[24-Apr-2012 15:21:35] PHP Fatal error:  Call to a member function getOption() on a non-object in /home/mmm/modx-core/components/mcm/processors/campaigns/create.class.php on line 26
+[24-Apr-2012 15:23:45] PHP Fatal error:  Call to a member function getOption() on a non-object in /home/mmm/modx-core/components/mcm/processors/campaigns/create.class.php on line 26
+[24-Apr-2012 15:24:59] PHP Fatal error:  Call to a member function getOption() on a non-object in /home/mmm/modx-core/components/mcm/processors/campaigns/create.class.php on line 26
+[24-Apr-2012 15:26:24] PHP Fatal error:  Class 'McmCampaignCreateProcessor_mysql' not found in /home/mmm/modx-core/xpdo/xpdo.class.php on line 760
+[24-Apr-2012 15:26:52] PHP Fatal error:  Class 'McmCampaignCreateProcessor_mysql' not found in /home/mmm/modx-core/xpdo/xpdo.class.php on line 760
+[24-Apr-2012 15:28:07] PHP Fatal error:  Class 'McmCampaignCreateProcessor_mysql' not found in /home/mmm/modx-core/xpdo/xpdo.class.php on line 760
+[24-Apr-2012 15:29:10] PHP Fatal error:  Class 'McmCampaignCreateProcessor_mysql' not found in /home/mmm/modx-core/xpdo/xpdo.class.php on line 760
+[24-Apr-2012 15:30:24] PHP Fatal error:  Class 'McmCampaignCreateProcessor_mysql' not found in /home/mmm/modx-core/xpdo/xpdo.class.php on line 760
+[24-Apr-2012 15:30:47] PHP Fatal error:  Class 'McmCampaignCreateProcessor_mysql' not found in /home/mmm/modx-core/xpdo/xpdo.class.php on line 760
+[24-Apr-2012 21:20:08] PHP Fatal error:  Class 'modObjectDeleteProcessor' not found in /home/mmm/modx-core/components/mcm/processors/campaigns/delete.class.php on line 2
+[24-Apr-2012 21:53:52] PHP Warning:  Missing argument 1 for ModxCampaignMonitor::_deleteCampaign(), called in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 194 and defined in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 184
+[25-Apr-2012 09:55:09] PHP Fatal error:  Call to a member function getOption() on a non-object in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 203
+[25-Apr-2012 09:55:50] PHP Fatal error:  Call to a member function getOption() on a non-object in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 203
+[25-Apr-2012 09:56:53] PHP Fatal error:  Call to a member function getOption() on a non-object in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 203
+[25-Apr-2012 10:44:09] PHP Fatal error:  Call to a member function getCampaignRecipientList() on a non-object in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 114
+[25-Apr-2012 10:48:10] PHP Fatal error:  Call to a member function getCampaignRecipientList() on a non-object in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 114
+[25-Apr-2012 10:48:18] PHP Fatal error:  Call to a member function getCampaignRecipientList() on a non-object in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 114
+[25-Apr-2012 11:06:20] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 124
+[25-Apr-2012 11:06:20] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 124
+[25-Apr-2012 11:06:20] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 124
+[25-Apr-2012 11:06:20] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 124
+[25-Apr-2012 12:36:08] PHP Warning:  Missing argument 2 for ModxCampaignMonitor::unscheduleCampaign(), called in /home/mmm/modx-core/components/mcm/processors/campaigns/unschedule.class.php on line 30 and defined in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 238
+[25-Apr-2012 12:36:28] PHP Warning:  Missing argument 2 for ModxCampaignMonitor::unscheduleCampaign(), called in /home/mmm/modx-core/components/mcm/processors/campaigns/unschedule.class.php on line 30 and defined in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 238
+[25-Apr-2012 13:33:49] PHP Fatal error:  Call to a member function send_preview() on a non-object in /home/mmm/modx-core/components/mcm/processors/campaigns/test.class.php on line 29
+[25-Apr-2012 13:51:07] PHP Fatal error:  Call to a member function send_preview() on a non-object in /home/mmm/modx-core/components/mcm/processors/campaigns/test.class.php on line 29
+[25-Apr-2012 13:52:13] PHP Fatal error:  Call to a member function send_preview() on a non-object in /home/mmm/modx-core/components/mcm/processors/campaigns/test.class.php on line 29
+[25-Apr-2012 14:09:08] PHP Warning:  Missing argument 2 for ModxCampaignMonitor::sendCampaignTest(), called in /home/mmm/modx-core/components/mcm/processors/campaigns/test.class.php on line 29 and defined in /home/mmm/modx-core/components/mcm/lib/mcm/ModxCampaignMonitor.class.php on line 263
