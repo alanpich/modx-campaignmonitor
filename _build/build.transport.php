@@ -46,28 +46,25 @@ $builder->registerNamespace(PKG_NAME_LOWER,false,true,'{core_path}components/'.P
 
 ## Package in action & menu ##############################################################
 ##		-> Also includes file resolvers
-$vehicle = include $sources['data'].'transport.menu.php';
+include $sources['data'].'transport.menu.php';
 
-
-## ADD FILE RESOLVERS ####################################################################
-$modx->log(modX::LOG_LEVEL_INFO,'Adding file resolvers to category...');
-$vehicle->resolve('file',array(
-    'source' => $sources['source_assets'],
-    'target' => "return MODX_ASSETS_PATH . 'components/';",
-));
-$vehicle->resolve('file',array(
-    'source' => $sources['source_core'],
-    'target' => "return MODX_CORE_PATH . 'components/';",
-));
 
 
 ## ADD SYSTEM SETTINGS ####################################################################
-include $sources['data'].'transport.settings.php';
+$settings = include $sources['data'].'transport.settings.php';
+$attributes = array(
+		xPDOTransport::UNIQUE_KEY => 'key',
+		xPDOTransport::PRESERVE_KEYS => true,
+		xPDOTransport::UPDATE_OBJECT => false,
+	);
+if (!is_array($settings)) { $modx->log(modX::LOG_LEVEL_FATAL,'Adding settings failed.'); };
+foreach ($settings as $setting) {
+	$vehicle = $builder->createVehicle($setting,$attributes);
+	$builder->putVehicle($vehicle);
+}
+$modx->log(modX::LOG_LEVEL_INFO,count($settings).' settings added to package');
 
 
-
-## Add vehicle to builder #################################################################
-$builder->putVehicle($vehicle);
 
 
 ## Add Readme/Changelog/License docs #######################################################

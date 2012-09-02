@@ -40,7 +40,7 @@ $settings['mcm.default_email_from_name']->fromArray(array(
 
 $settings['mcm.default_email_from_address']= $modx->newObject('modSystemSetting');
 $settings['mcm.default_email_from_address']->fromArray(array(
-    'key' => 'mcm.mcm.default_email_from_address',
+    'key' => 'mcm.default_email_from_address',
     'value' => '',
     'xtype' => 'textfield',
     'namespace' => 'mcm',
@@ -57,25 +57,4 @@ $settings['mcm.default_email_replyto']->fromArray(array(
 
 
 
-$vehicle = $builder->createVehicle($settings,array (
-    xPDOTransport::PRESERVE_KEYS => true,
-    xPDOTransport::UPDATE_OBJECT => true,
-    xPDOTransport::UNIQUE_KEY => 'text',
-    xPDOTransport::RELATED_OBJECTS => true,
-    xPDOTransport::RELATED_OBJECT_ATTRIBUTES => array (
-        'Setting' => array (
-            xPDOTransport::PRESERVE_KEYS => false,
-            xPDOTransport::UPDATE_OBJECT => true,
-            xPDOTransport::UNIQUE_KEY => array ('namespace','key'),
-        ),
-    ),
-));
-$modx->log(modX::LOG_LEVEL_INFO,'Menu & Action added to package');
-
-## Add vehicle to builder #################################################################
-$builder->putVehicle($vehicle);
-
-
-
-
-
+return $settings;

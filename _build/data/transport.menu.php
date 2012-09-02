@@ -37,4 +37,21 @@ $vehicle= $builder->createVehicle($menu,array (
 ));
 $modx->log(modX::LOG_LEVEL_INFO,'Menu & Action added to package');
 
-return $vehicle;
+
+$modx->log(modX::LOG_LEVEL_INFO,'Adding file resolvers to category...');
+$vehicle->resolve('file',array(
+    'source' => $sources['source_assets'],
+    'target' => "return MODX_ASSETS_PATH . 'components/';",
+));
+$vehicle->resolve('file',array(
+    'source' => $sources['source_core'],
+    'target' => "return MODX_CORE_PATH . 'components/';",
+));
+
+
+
+## Add vehicle to builder #################################################################
+$builder->putVehicle($vehicle);
+$modx->log(modX::LOG_LEVEL_INFO,'Added Menu & File vehicle to builder');
+
+
