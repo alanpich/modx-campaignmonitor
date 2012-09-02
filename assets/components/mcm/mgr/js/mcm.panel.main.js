@@ -32,7 +32,7 @@ MCM.panel.Main = function(config) {
                     ,cls: 'main-wrapper'
        //             ,preventRender: true
 				}]
-            },{
+/*            },{
                 title: _('mcm.recipientLists')
                 ,defaults: { autoHeight: true }
                 ,items: [{
@@ -47,12 +47,12 @@ MCM.panel.Main = function(config) {
                     html: '<p>Config Settings</p>'
                     ,border: false
                     ,bodyCssClass: 'panel-desc'
-                }/*,{
-                    xtype: 'doodles-grid-doodles'
+                },{
+                    xtype: 'mcm-panel-settings'
                     ,cls: 'main-wrapper'
-                    ,preventRender: true
-                }*/]
-            }]
+//                    ,preventRender: true
+                }]
+ */           }]
         }]
     });
     MCM.panel.Main.superclass.constructor.call(this,config);

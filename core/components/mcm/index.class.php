@@ -14,6 +14,7 @@ abstract class MCMManagerController extends modExtraManagerController {
         $this->addJavascript($modx->getOption('manager_url').'assets/modext/util/datetime.js');
         $this->addJavascript(MCM_ASSETS.'mgr/js/index.controller.js');
         $this->addJavascript(MCM_ASSETS.'mgr/js/mcm.panel.main.js');
+        $this->addJavascript(MCM_ASSETS.'mgr/js/mcm.panel.settings.js');
         $this->addJavascript(MCM_ASSETS.'mgr/js/mcm.combo.resource.js');
         $this->addJavascript(MCM_ASSETS.'mgr/js/mcm.combo.recipientlists.js');
         $this->addJavascript(MCM_ASSETS.'mgr/js/mcm.grid.campaigns.js');

@@ -1,8 +1,8 @@
 <?php 
-class McmCampaignCreateProcessor extends modObjectCreateProcessor {
+class McmCampaignCreateProcessor extends modProcessor {
     public $languageTopics = array('mcm:default');
-    public $classKey = 'McmCampaign';
-    public $objectType = 'mcm.campaign';
+//    public $classKey = 'McmCampaign';
+//    public $objectType = 'mcm.campaign';
 
 
 //-----------------------------------------------------------------------------------------------------------	
@@ -25,6 +25,11 @@ public function process(){
 		$props = $this->getProperties();
 		
 		$URL = $modx->getOption('site_url'). $modx->makeUrl( (int)$props['resourceID'] );
+		
+		# Localhost fix
+		$URL = str_replace('localhost','80.229.244.66',$URL);
+		
+//		$modx->log(xPDO::LOG_LEVEL_WARN,'URL: '.$URL);
 		
 		$result = $this->MCM->createCampaign(array(
 			'Subject' => $props['subject'],
