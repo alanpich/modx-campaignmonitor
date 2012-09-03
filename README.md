@@ -11,6 +11,7 @@ functionality is limited to creating, testing, sheduling and reporting on campai
 plan to add support for recipient list administration in the future.
 
 #### Installation Guide
+* Download the [transport package](https://github.com/downloads/alanpich/modx-campaignmonitor/mcm-1.0.0-pl.transport.zip)
 * Place .zip file in your core/packages directory and install via the package manager.
 * The installer will create several system settings under the namespace `mcm`. These must all be populated 
 or the package may not work as expected. (todo - add field population the installer)
